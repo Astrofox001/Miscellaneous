@@ -1,0 +1,11 @@
+Initially made as a joke, this dice relies on the fact that the Babylonians worked with a base 60 system.
+Naturally, this lead me to produce a d60 where all the digits range from 0-59.
+I have not produced a version for counting, and the one featured in this directory is meant to be rolled.
+I've tried to make it so that opposite faces sum to 59.
+I made the cuneiform font too, and it took me a few days to get through the process of making the die.
+
+For the case you want to do anything with these:
+Reproducible: TRUE
+Profitable: TRUE
+You're also allowed to use the cuneiform digits I made for this project.
+Just credit here: https://github.com/Astrofox001
